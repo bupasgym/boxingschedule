@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Подписка на календарь</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f7f7f7;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 30px;
+    }
+    .button {
+      display: block;
+      width: 280px;
+      margin: 15px auto;
+      padding: 15px;
+      font-size: 18px;
+      border: none;
+      border-radius: 10px;
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+      background: #4285f4;
+      transition: background 0.3s;
+    }
+    .button.apple {
+      background: #000;
+    }
+    .button.download {
+      background: #6c757d;
+    }
+    .button:hover {
+      opacity: 0.85;
+    }
+  </style>
+</head>
+<body>
+  <h1>🥊 Расписание боёв — добавь в календарь</h1>
+
+  <a class="button" href="https://calendar.google.com/calendar/r?cid=https://bupasgym.github.io/boxingschedule/TEST.ics" target="_blank">
+    📅 Подписаться в Google Calendar
+  </a>
+
+  <a class="button apple" href="webcal://bupasgym.github.io/boxingschedule/TEST.ics">
+    🍏 Добавить в Apple Calendar
+  </a>
+
+  <a class="button download" href="https://bupasgym.github.io/boxingschedule/TEST.ics" download>
+    📥 Скачать .ics файл
+  </a>
+</body>
+</html>
