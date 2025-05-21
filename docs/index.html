@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>World Boxing Schedule</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    html, body {
+      height: 100%;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      background: black;
+      color: white;
+    }
+
+    #bg-video {
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      min-width: 100%;
+      min-height: 100%;
+      object-fit: cover;
+      z-index: -1;
+    }
+
+    .overlay {
+      position: relative;
+      z-index: 1;
+      height: 100vh;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.65);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 2rem;
+      justify-content: center;
+    }
+
+    .title {
+      font-size: 48px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      margin-bottom: 0.5rem;
+    }
+
+    .presented {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 2rem;
+    }
+
+    .presented img {
+      height: 24px;
+    }
+
+    .description {
+      max-width: 760px;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.6;
+      margin-bottom: 2.5rem;
+      color: #e5e5e5;
+    }
+
+    .button {
+      display: block;
+      width: 280px;
+      margin: 10px;
+      padding: 15px;
+      font-size: 18px;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      color: black;
+      background: white;
+      font-weight: bold;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    .button:hover {
+      background: gold;
+      color: black;
+    }
+
+    @media (max-width: 600px) {
+      .title {
+        font-size: 32px;
+      }
+
+      .description {
+        font-size: 14px;
+        padding: 0 1rem;
+      }
+
+      .button {
+        width: 90%;
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <video autoplay muted loop playsinline id="bg-video">
+    <source src="background.mp4" type="video/mp4" />
+    Ваш браузер не поддерживает видео.
+  </video>
+
+  <div class="overlay">
+    <div class="title">WORLD BOXING SCHEDULE</div>
+    <div class="presented">
+      <span>PRESENTED BY</span>
+      <img src="bupas gym logo.png" alt="BUPAS GYM logo" />
+    </div>
+
+    <div class="description">
+      Расписание титульных боев WBA, WBC, WBO, IBF, а также статусные встречи, которые нельзя пропустить.<br><br>
+      Ивенты Top Rank, PBC, RCC BOXING PROMOTIONS, MATCHROOM, IBA.PRO, QUEENSBERRY PROMOTIONS — в одном клике.<br><br>
+      Наш календарь сам добавит все предстоящие поединки в твой Apple или Google Календарь.<br><br>
+      Никакого поиска — только бокс.
+    </div>
+
+    <a class="button" href="webcal://bupasgym.github.io/boxingschedule/world%20boxing%20schedule.ics">Подписаться в Apple Календарь</a>
+    <a class="button" href="https://calendar.google.com/calendar/r?cid=https://bupasgym.github.io/boxingschedule/world%20boxing%20schedule.ics" target="_blank">Подписаться в Google Календарь</a>
+    <a class="button" href="https://bupasgym.github.io/boxingschedule/world%20boxing%20schedule.ics" download>Скачать .ics файл</a>
+  </div>
+</body>
+</html>
