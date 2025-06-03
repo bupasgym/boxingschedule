@@ -13,7 +13,7 @@ CREATED:20250520T152512Z
 DESCRIPTION:Легкий вес - 61.2 кг\n\nInstagram\nhttps://www.instagram.com
  /bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250523
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250522
 LAST-MODIFIED:20250520T183632Z
 LOCATION:Голливуд\nЛос-Анджелес\, CA\, Соединённые Штаты Америки
@@ -35,17 +35,17 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Лос-Анджелес, CA, С
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание
-TRIGGER:-PT15H
-UID:309FF810-76D5-43E1-9E33-745E55AB94BE
-X-WR-ALARMUID:309FF810-76D5-43E1-9E33-745E55AB94BE
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание
 TRIGGER:PT9H
 UID:F19B1730-B0FA-4459-AAB3-CDF68BB1EF70
 X-APPLE-DEFAULT-ALARM:TRUE
 X-WR-ALARMUID:F19B1730-B0FA-4459-AAB3-CDF68BB1EF70
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание
+TRIGGER:-PT15H
+UID:309FF810-76D5-43E1-9E33-745E55AB94BE
+X-WR-ALARMUID:309FF810-76D5-43E1-9E33-745E55AB94BE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DESCRIPTION:Бой за титул чемпиона мира WBO в легком
  stagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com/bupasg
  ym
 DTEND;VALUE=DATE:20250524
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250523
 LAST-MODIFIED:20250520T183552Z
 LOCATION:Донкастер\nАнглия
@@ -85,7 +85,7 @@ DESCRIPTION:Бой за титул WBO INTERNATIONAL в полусреднем �
  n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com/b
  upasgym
 DTEND;VALUE=DATE:20250525
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250524
 LAST-MODIFIED:20250520T183519Z
 LOCATION:Глазго\nШотландия
@@ -116,7 +116,7 @@ DESCRIPTION:Бой за вакантный титул чемпиона IBF в п
   кг\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.c
  om/bupasgym
 DTEND;VALUE=DATE:20250525
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250524
 LAST-MODIFIED:20250520T183457Z
 LOCATION:Осака\nЯпония
@@ -146,7 +146,7 @@ DESCRIPTION:Бой за титул чемпиона мира IBF во второ
  9 кг\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.
  com/bupasgym
 DTEND;VALUE=DATE:20250529
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250528
 LAST-MODIFIED:20250520T183341Z
 LOCATION:Китайский городок в Иокогаме\nЁкохама\, Канагава\, Япония
@@ -180,7 +180,7 @@ CREATED:20250520T161636Z
 DESCRIPTION:Второй средний вес - 76.2 кг \n\nInstagram\nhttps://www.inst
  agram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250531
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250530
 LAST-MODIFIED:20250520T183258Z
 LOCATION:Лас-Вегас\nСоединённые Штаты Америки
@@ -212,7 +212,7 @@ CREATED:20250520T162114Z
 DESCRIPTION:Второй средний вес - 76.2 кг\n\nInstagram\nhttps://www.insta
  gram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250601
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250531
 LAST-MODIFIED:20250520T183046Z
 LOCATION:Лас-Вегас\nСоединённые Штаты Америки
@@ -244,7 +244,7 @@ CREATED:20250520T162716Z
 DESCRIPTION:Средний вес - 72.5 кг\n\nInstagram\nhttps://www.instagram.co
  m/bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250607
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250606
 LAST-MODIFIED:20250520T183211Z
 LOCATION:Ньюкасл-апон-Тайн\nАнглия
@@ -276,7 +276,7 @@ DESCRIPTION:Бой за титул временного чемпиона мир�
  е - свыше 101.6 кг\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВ
  К\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250607
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250606
 LAST-MODIFIED:20250521T104621Z
 LOCATION:Ипсвич\nАнглия
@@ -308,7 +308,7 @@ DESCRIPTION:Бой за титул чемпиона мира WBO в легком
  stagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com/bupasg
  ym
 DTEND;VALUE=DATE:20250608
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250607
 LAST-MODIFIED:20250520T182722Z
 LOCATION:Норфолк\nСоединённые Штаты Америки
@@ -341,7 +341,7 @@ DESCRIPTION:Бой за титул чемпиона мира IBF в легком
  stagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com/bupasg
  ym
 DTEND;VALUE=DATE:20250608
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250607
 LAST-MODIFIED:20250520T182830Z
 LOCATION:Орландо\nСоединённые Штаты Америки
@@ -373,7 +373,7 @@ DESCRIPTION:Бой за титул чемпиона Европы во второ
  г\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com
  /bupasgym
 DTEND;VALUE=DATE:20250608
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250607
 LAST-MODIFIED:20250520T182747Z
 LOCATION:Барнсли\nАнглия
@@ -404,7 +404,7 @@ DESCRIPTION:Бой за титул чемпиона мира IBF в первом
  Ring magazine - 90.7 кг\n\nInstagram\nhttps://www.instagram.com/bupasgym
  \n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250609
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250608
 LAST-MODIFIED:20250520T182643Z
 LOCATION:Броудбич\nАвстралия
@@ -435,7 +435,7 @@ DESCRIPTION:Бой за титулы чемпиона мира по версия
   весе - 53.5 кг\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\n
  https://vk.com/bupasgym\n
 DTEND;VALUE=DATE:20250609
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250608
 LAST-MODIFIED:20250520T182622Z
 LOCATION:Toкиo\nЯпония
@@ -465,7 +465,7 @@ DESCRIPTION:Бой за титул чемпиона мира IBF в суперл
  n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com/b
  upasgym
 DTEND;VALUE=DATE:20250615
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250614
 LAST-MODIFIED:20250520T182554Z
 LOCATION:Нью-Йорк\nСоединённые Штаты Америки
@@ -497,7 +497,7 @@ DESCRIPTION:Бой за титул чемпиона мира WBO в полуср
  n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com/b
  upasgym
 DTEND;VALUE=DATE:20250620
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250619
 LAST-MODIFIED:20250520T182523Z
 LOCATION:Toкиo\nЯпония
@@ -526,7 +526,7 @@ CREATED:20250520T173202Z
 DESCRIPTION:Супертяжелый вес - свыше 101.6 кг \n\nInstagram\nhttps://www
  .instagram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250628
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250627
 LAST-MODIFIED:20250520T194437Z
 LOCATION:Уичито\nСоединённые Штаты Америки
@@ -559,7 +559,7 @@ DESCRIPTION:Бой за титул временного чемпиона мир�
  весе - 76.2 кг\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nh
  ttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250628
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250627
 LAST-MODIFIED:20250520T182352Z
 LOCATION:Квебек\nКанада
@@ -589,7 +589,7 @@ CREATED:20250520T173916Z
 DESCRIPTION:Первый тяжелый вес - 90.7 кг\n\nInstagram\nhttps://www.insta
  gram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym\n
 DTEND;VALUE=DATE:20250629
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250628
 LAST-MODIFIED:20250520T182321Z
 LOCATION:Анахайм\nСоединённые Штаты Америки
@@ -621,7 +621,7 @@ DESCRIPTION:Бой за звание абсолютного чемпиона м�
  BO) в суперлегком весе - 63.5 кг\n\nInstagram\nhttps://www.instagram.com
  /bupasgym\n\nВК\nhttps://vk.com/bupasgym\n
 DTEND;VALUE=DATE:20250712
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250711
 LAST-MODIFIED:20250520T182204Z
 LOCATION:Нью-Йорк\nСоединённые Штаты Америки
@@ -651,7 +651,7 @@ BEGIN:VEVENT
 CREATED:20250520T180844Z
 DESCRIPTION:Бой за титул чемпиона мира WBC в легком весе - 61.2 кг
 DTEND;VALUE=DATE:20250713
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250712
 LAST-MODIFIED:20250520T182050Z
 LOCATION:Нью-Йорк\nСоединённые Штаты Америки
@@ -683,7 +683,7 @@ DESCRIPTION:Бой за звание абсолютного чемпиона м�
  (WBA\, WBC\, IBF\, WBO\, Ring magazine) - свыше 101.6 кг\n\nInstagram\nh
  ttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym\n
 DTEND;VALUE=DATE:20250720
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250719
 LAST-MODIFIED:20250520T182106Z
 LOCATION:Лондон\nАнглия
@@ -714,7 +714,7 @@ DESCRIPTION:Бой за титулы чемпиона мира WBC\, WBO в пе
  е - 52.1 кг\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttp
  s://vk.com/bupasgym
 DTEND;VALUE=DATE:20250720
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250719
 LAST-MODIFIED:20250521T105344Z
 LOCATION:Даллас\nСоединённые Штаты Америки
@@ -746,7 +746,7 @@ DESCRIPTION:Бой за звание абсолютного чемпиона м�
  (WBA\, WBC\, IBF\, WBO) - свыше 79.3 кг\n\nInstagram\nhttps://www.instag
  ram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250727
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250726
 LAST-MODIFIED:20250521T105216Z
 LOCATION:Детройт\nСоединённые Штаты Америки
@@ -778,7 +778,7 @@ DESCRIPTION:Бой за титул чемпиона мира WBA в легком
  stagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.com/bupasg
  ym
 DTEND;VALUE=DATE:20250817
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250816
 LAST-MODIFIED:20250520T184455Z
 LOCATION:Лас-Вегас\nСоединённые Штаты Америки
@@ -809,7 +809,7 @@ CREATED:20250520T185608Z
 DESCRIPTION:Второй средний вес - 76.2 кг\n\nInstagram\nhttps://www.insta
  gram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250913
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250912
 LAST-MODIFIED:20250520T185608Z
 LOCATION:Эр-Рияд\nСаудовская Аравия
@@ -836,37 +836,35 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250520T190747Z
-DESCRIPTION:Бой за пояс WBA Gold во втором среднем весе - 76.2 кг в рамк
- ах RCC Boxing Promotions.\n\nТакже 5 июля в Екатеринбурге на ринг выйдут
-  Харитон Агрба\, Магомед Курбанов\, Вадим Туков\, а россияне Евгений Ром
- анов и Георгий Юновидов проведут очный бой за звание обязательного прете
- ндента по версии WBA в бриджервейте.\n\nInstagram\nhttps://www.instagram
- .com/bupasgym\n\nВК\nhttps://vk.com/bupasgym
+DESCRIPTION:⬆️ Полный кард ⬆️\n\nБой за пояс WBA Gold во втором среднем 
+ весе - 76.2 кг в рамках RCC Boxing Promotions.\n\nInstagram\nhttps://www
+ .instagram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250706
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250705
-LAST-MODIFIED:20250520T193848Z
+LAST-MODIFIED:20250603T185644Z
 LOCATION:Екатеринбург\nСвердловская область\, Россия
 SEQUENCE:0
 SUMMARY:🥊 Павел Силягин vs Пабло Корсо | 10 раундов 168 LBS
 TRANSP:OPAQUE
 UID:9978674B-ECA1-4A5F-AEC5-279C9C05799B
+URL;VALUE=URI:https://boxrec.com/ru/event/922845
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Свердловская область, Р
  оссия";X-APPLE-MAPKIT-HANDLE=CAESyAII2TIQo4jgoPb2qfcUGhIJf28uWXBrTEARBQb
  /ETxOTkAijQEKDNCg0L7RgdGB0LjRjxICUlUaJ9Ch0LLQtdGA0LTQu9C+0LLRgdC60LDRjyD
  QvtCx0LvQsNGB0YLRjCo20LPQvtGA0L7QtNGB0LrQvtC5INCe0LrRgNGD0LMg0JXQutCw0YL
  QtdGA0LjQvdCx0YPRgNCzMhjQldC60LDRgtC10YDQuNC90LHRg9GA0LMqGNCV0LrQsNGC0LX
  RgNC40L3QsdGD0YDQszIY0JXQutCw0YLQtdGA0LjQvdCx0YPRgNCzMifQodCy0LXRgNC00Lv
- QvtCy0YHQutCw0Y8g0L7QsdC70LDRgdGC0YwyDNCg0L7RgdGB0LjRjzgQUAFaJgokCKOI4KD
+ QvtCy0YHQutCw0Y8g0L7QsdC70LDRgdGC0YwyDNCg0L7RgdGB0LjRjzgvUAFaJgokCKOI4KD
  29qn3FBISCX9vLllwa0xAEQUG/xE8Tk5AGNkykAMB;X-APPLE-RADIUS=35815.966679492
  43;X-APPLE-REFERENCEFRAME=1;X-TITLE=Екатеринбург:geo:56.839366,60.611208
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание
 TRIGGER:PT9H
-UID:48532591-1B79-4402-A69A-1E0450EA6549
+UID:89D6D16D-3F75-4A3A-A34B-D09F4266AC6B
 X-APPLE-DEFAULT-ALARM:TRUE
-X-WR-ALARMUID:48532591-1B79-4402-A69A-1E0450EA6549
+X-WR-ALARMUID:89D6D16D-3F75-4A3A-A34B-D09F4266AC6B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -879,7 +877,7 @@ DESCRIPTION:Экс-чемпион мира по версии WBO в первом
  онь.\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps://vk.
  com/bupasgym
 DTEND;VALUE=DATE:20250608
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250607
 LAST-MODIFIED:20250520T191915Z
 LOCATION:Красноярск\nий край\, Россия
@@ -913,7 +911,7 @@ DESCRIPTION:IBA.PRO 6\n\nУсмонов - Пагара (легкий вес) з�
  едний вес)\n\nInstagram\nhttps://www.instagram.com/bupasgym\n\nВК\nhttps
  ://vk.com/bupasgym
 DTEND;VALUE=DATE:20250524
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250523
 LAST-MODIFIED:20250520T192901Z
 LOCATION:Душанбе
@@ -941,7 +939,7 @@ DESCRIPTION:Ведущая российская промоутерская ко�
  иван Лаваль (20-2\, 13 KOs).\n\nInstagram\nhttps://www.instagram.com/bup
  asgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250615
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250614
 LAST-MODIFIED:20250520T193805Z
 LOCATION:Екатеринбург\nСвердловская область\, Россия
@@ -981,7 +979,7 @@ DESCRIPTION:Возвращение легенды на большой ринг. 
   (39 из них — нокаутом)\, 8 поражений и 2 ничьи.\n\nInstagram\nhttps://w
  ww.instagram.com/bupasgym\n\nВК\nhttps://vk.com/bupasgym
 DTEND;VALUE=DATE:20250720
-DTSTAMP:20250521T200842Z
+DTSTAMP:20250603T185923Z
 DTSTART;VALUE=DATE:20250719
 LAST-MODIFIED:20250521T195041Z
 LOCATION:Лас-Вегас\nСоединённые Штаты Америки
